@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - CocoaLumberjack/Core (3.6.0)
+  - CocoaLumberjack/Swift (3.6.0):
+    - CocoaLumberjack/Core
+  - KVNProgress (2.3.5)
+  - moa (12.0.0)
+  - ObjectMapper (3.5.1)
+  - "ObjectMapper+Realm (1.0)":
+    - ObjectMapper
+    - RealmSwift
+  - ObjectMapperAdditions/Core (6.0.2):
+    - ObjectMapper
+  - Realm (3.19.0):
+    - Realm/Headers (= 3.19.0)
+  - Realm/Headers (3.19.0)
+  - RealmSwift (3.19.0):
+    - Realm (= 3.19.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AlamofireObjectMapper (~> 5.0)
+  - CocoaLumberjack/Swift
+  - KVNProgress
+  - moa
+  - "ObjectMapper+Realm"
+  - ObjectMapperAdditions/Core (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - CocoaLumberjack
+    - KVNProgress
+    - moa
+    - ObjectMapper
+    - "ObjectMapper+Realm"
+    - ObjectMapperAdditions
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  CocoaLumberjack: 78b0c238666f4f58db069738ec176f4519557516
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+  moa: e2346f12de6c65bbca4d103950d45db9e46785ef
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  "ObjectMapper+Realm": bd713d57132bf05880a656695137764692f7d2bb
+  ObjectMapperAdditions: 923fa7cdc45a7937e08fea8c715d18fc3604b122
+  Realm: 995d585bcf699aaff226715886c849a29dd3d07f
+  RealmSwift: 35f284a537989f2187b413e5917091948cb87a3f
+
+PODFILE CHECKSUM: 4b549cee2e41b3e1aebd7a93392c460e7b2c79ab
+
+COCOAPODS: 1.8.1
